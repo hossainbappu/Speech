@@ -26,7 +26,7 @@ request.post('https://speech.googleapis.com/v1p1beta1/speech:recognize', {
     json: data,
     headers: {
         'Content-Type': 'application/json',
-        'Authorization':'Bearer ya29.c.ElpHBukryleKOtPWiMOLFl9oLEsRX33qZ0_kWBwjZV2-vljMZ2M0lMWU3gviv9l-BvpqlrkXk2ONJIrajouSe3VjPu4kssNciTjVRztDIu8AfxNZW02tWrmgx5I'
+        'Authorization':'Bearer ya29.c.ElpHBmC0kASBLnKMRolJyOWizBazWWMFN68obbJAKLqehBYzQzKNPZCdetBFepy5-EFJ-ZjP507_oNvqAzKA8DlJLDdmYejagdPb3rujZ5U2OFJT44r26sI3YQM'
     }
 }, (error, res, body) => {
     if (error) {
